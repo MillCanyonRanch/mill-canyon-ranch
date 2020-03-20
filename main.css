@@ -58,7 +58,6 @@ html {
   #main {
     padding: 15% 5% 0 5%;
     margin-top: 5%;
-    vertical-align: middle;
     }
   #main img {
     width: 14vw;
@@ -133,6 +132,7 @@ and (-webkit-device-pixel-ratio : 2)
 and (orientation : portrait) {
   #main {
     padding: 15% 5% 0 5%;
+    margin-top: 5%;
     }
   #main img {
     width: 14vw;
